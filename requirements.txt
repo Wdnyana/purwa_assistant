@@ -1,0 +1,18 @@
+click
+python-dotenv
+tqdm
+setuptools
+
+# Paket Google (Inti & Adapter Langchain)
+# Ini akan mengambil versi-versi terbaru yang kompatibel
+google-generativeai
+langchain-google-genai
+
+# Paket Langchain (Inti & Komponen)
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Vector DB
+chromadb

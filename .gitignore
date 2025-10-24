@@ -1,0 +1,25 @@
+# --- Virtual Environment ---
+venv/
+*.venv
+
+# --- Rahasia ---
+.env
+.env.*
+
+# --- Cache & File Buatan Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Cache Purwa-Assistant ---
+.purwa-cli-cache/
+
+# --- IDE & Editor ---
+# Abaikan file pengaturan VS Code dan IntelliJ/PyCharm
+.vscode/
+.idea/
+
+# --- Build & Distribusi ---
+build/
+dist/
+*.egg-info/
